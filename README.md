@@ -1,7 +1,7 @@
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [ChatFlow](https://github.com/bedirhan-kurt/ChatFlow)
+- 🔭 I’m currently learning about Node.js & Express.js.
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeepCodeRz](https://github.com/bedirhan-kurt)
 
